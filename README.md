@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+hyunsix의 개발블로그 
+💨 https://hyunsix.tistory.com/
+
 <!--
 **jhs9497/jhs9497** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
